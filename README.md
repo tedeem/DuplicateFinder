@@ -3,7 +3,9 @@
 
 A lightweight, high-performance, and completely **non-destructive** JPEG image duplicate detector written in C/C++.
 
-Developed by **Terry Deem** in collaboration with **Google Gemini**, this tool is designed "old-school" style to recursively scan directories, analyze image content (independent of filename or resolution), and export an easy-to-read database (`imageDB.csv`) for seamless duplicate management in Microsoft Excel.
+Developed by **Terry Deem** in collaboration with **Google Gemini**, this tool is designed "old-school" style
+to recursively scan directories, analyze image content (independent of filename or resolution),
+and export an easy-to-read database (`imageDB.csv`) for seamless duplicate management in Microsoft Excel.
 
 ---
 
